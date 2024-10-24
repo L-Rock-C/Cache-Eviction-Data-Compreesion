@@ -1,5 +1,7 @@
 package model;
 
+import control.ServiceOrderController;
+
 import java.util.LinkedList;
 
 public class Cache {
@@ -21,8 +23,13 @@ public class Cache {
 
     public void printCache(){
         System.out.println("\n------- View Cache --------\n");
-        String listCacheReturn = listCache();
-        System.out.println(listCacheReturn);
+
+        int i = 1;
+        for (ServiceOrder order : table) {
+            System.out.print("Index: " + i + " | ");
+            i++;
+            order.listShow();
+        }
     }
 
     public ServiceOrder search(int code){
@@ -39,7 +46,25 @@ public class Cache {
             table.add(serviceOrder);
         } else{
             table.removeLast();
+            quantity--;
             table.add(serviceOrder);
+        }
+        quantity++;
+    }
+
+    public void update(ServiceOrder serviceOrder, ServiceOrderController.ACTION action){
+        switch(action){
+            case VIEW:
+                add(serviceOrder);
+                break;
+            case EDIT:
+                add(serviceOrder);
+                System.out.println("\nCache atualizada");
+                break;
+            case REMOVE:
+                table.remove(serviceOrder);
+                System.out.println("\nCache atualizada");
+                break;
         }
     }
 

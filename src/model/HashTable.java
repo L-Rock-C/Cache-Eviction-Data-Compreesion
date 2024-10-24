@@ -16,8 +16,16 @@ public class HashTable {
         }
     }
 
+    public int getQuantity(){
+        return quantity;
+    }
+
+    public int getSize(){
+        return size;
+    }
+
     private int hashFunction(int code) {
-        int prime = 17; // First prime number after 16
+        int prime = 127; // First prime number after 16
         return code % prime;
     }
 
@@ -87,7 +95,7 @@ public class HashTable {
             AutoadjustList<ServiceOrder> list = table[i];
 
             for (ServiceOrder order : list) {
-                System.out.print("Index " + i + ":");
+                System.out.print("Index " + i + ": ");
                 order.listShow();
             }
         }

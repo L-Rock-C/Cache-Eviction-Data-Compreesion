@@ -65,8 +65,7 @@ public class MyLinkedList<T> implements Iterable<T>{
     }
 
     // Remove the last element of the given data
-    public boolean removeLast() {
-        if (head == null) return false;
+    public void removeLast() {
 
         Node<T> current = head;
         while (current.next.next != null) {
@@ -76,7 +75,6 @@ public class MyLinkedList<T> implements Iterable<T>{
         current.next = null;
         size--;
 
-        return true;
     }
 
     // Verify if the list contains the given data

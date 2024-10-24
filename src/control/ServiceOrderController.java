@@ -11,6 +11,7 @@ import java.util.Scanner;
 public class ServiceOrderController {
     Files files = new Files();
 
+    public enum ACTION { VIEW, EDIT, REMOVE }
     FilesController fileAccess = new FilesController();
     HashTable serviceOrders = fileAccess.readSOFile(files.getServiceOrderFile());
     Scanner input = new Scanner(System.in);
@@ -25,6 +26,7 @@ public class ServiceOrderController {
         System.out.println("\n------- Service Orders List --------\n");
 
         serviceOrders.runHashTable();
+        System.out.println(serviceOrders.getSize());
 
         System.out.println();
     }
@@ -46,6 +48,9 @@ public class ServiceOrderController {
 
                 SOFromCache.listShow();
 
+                cache.update(SOFromCache, ACTION.VIEW);
+                fileAccess.WriteFile(files.getCacheFile(), cache.listCache());
+
                 System.out.print("\n(Data from cache) \nPress Enter to continue.");
                 input.nextLine();
                 input.nextLine();
@@ -57,7 +62,7 @@ public class ServiceOrderController {
                 System.out.println();
                 chosen.listShow();
 
-                cache.add(chosen);
+                cache.update(chosen, ACTION.VIEW);
                 fileAccess.WriteFile(files.getCacheFile(), cache.listCache());
 
                 System.out.print("\nPress Enter to continue.");
@@ -101,7 +106,7 @@ public class ServiceOrderController {
                     case 1:
                         System.out.print("Insert new Code value: ");
                         int OSCode = input.nextInt();
-                        chosen.setCode(code);
+                        chosen.setCode(OSCode);
                         break;
                     case 2:
                         System.out.print("Insert new Name value: ");
@@ -120,6 +125,9 @@ public class ServiceOrderController {
                         break;
                     case 5:
                         fileAccess.WriteFile(files.getServiceOrderFile(), serviceOrders.runHashTableString());
+                        cache.update(chosen, ACTION.EDIT);
+                        fileAccess.WriteFile(files.getCacheFile(), cache.listCache());
+
                         System.out.println();
                         done = true;
                         break;
@@ -176,12 +184,20 @@ public class ServiceOrderController {
             serviceOrders.remove(chosen.getCode());
 
             fileAccess.WriteFile(files.getServiceOrderFile(), serviceOrders.runHashTableString());
+
+            cache.update(chosen, ACTION.REMOVE);
+            fileAccess.WriteFile(files.getCacheFile(), cache.listCache());
+
             System.out.println("\nService order deleted.");
         }
 
         System.out.println();
     }
 
+    public void getSOSize(){
+        System.out.println("\n------- Service Order Delete --------\n");
+        System.out.println("Quantity of registries: " + serviceOrders.getQuantity() + "\n");
+    }
 
     public Cache getCache(){
         return cache;

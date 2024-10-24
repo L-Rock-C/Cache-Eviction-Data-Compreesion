@@ -1,100 +1,100 @@
-1003;Lucas;Paulo Henrique;ED2 final project;1729712992116
-5440;Data Recovery;Juliana;Calibrate colors on the new monitor.;1729018472990
-4165;Monitor Calibration;Armando;Fix paper jam and replace toner.;1728650451822
-7124;Software Update;Helena;Configure work email on new phone.;1728038263935
-3809;Data Recovery;Beatriz;Update operating system to latest version.;1729136766369
-6037;Server Backup;Elisa;Calibrate colors on the new monitor.;1728263242143
-4014;Monitor Calibration;Igor;Fix blue screen issue on laptop.;1729330701735
-8417;Network Setup;Fernando;Install new router and configure Wi-Fi.;1728609482771
+6096;Email Configuration;Fernando;Fix paper jam and replace toner.;1729167610268
+5335;Printer Maintenance;Daniel;Configure work email on new phone.;1728950081087
+1655;Server Backup;Carlos;Calibrate colors on the new monitor.;1729622109546
+9276;Data Recovery;Elisa;Check the antenna and fix internet issue.;1728353392016
+6102;Data Recovery;Fernando;Update operating system to latest version.;1727909422905
+4833;Technical Visit;Juliana;Replace HDMI cable for TV.;1729122191045
 1278;Cable Replacement;Juliana;Fix paper jam and replace toner.;1728510648848
-1703;Network Setup;Igor;Configure work email on new phone.;1728970075700
-7857;Computer Repair;Gabriela;Replace HDMI cable for TV.;1727499367198
-5546;Printer Maintenance;Beatriz;Recover deleted files from hard drive.;1729446283618
-9804;Network Setup;Daniel;Calibrate colors on the new monitor.;1729682688388
-9900;Computer Repair;Igor;Set up automatic backup on company server.;1728625551119
-1128;Email Configuration;Daniel;Fix paper jam and replace toner.;1729458740946
-6006;Cable Replacement;Gabriela;Fix blue screen issue on laptop.;1727347355767
-7470;Software Update;Elisa;Calibrate colors on the new monitor.;1729411311991
-9630;Software Update;Fernando;Fix paper jam and replace toner.;1728573868605
+6613;Network Setup;Juliana;Update operating system to latest version.;1727973889401
+5345;Email Configuration;Beatriz;Replace HDMI cable for TV.;1729141185341
+7124;Software Update;Helena;Configure work email on new phone.;1728038263935
 5601;Data Recovery;Gabriela;Configure work email on new phone.;1727924125219
 2808;Data Recovery;Fernando;Configure work email on new phone.;1727221486773
-5143;Technical Visit;Helena;Update operating system to latest version.;1728488378389
-4009;Cable Replacement;Elisa;Fix blue screen issue on laptop.;1727216539776
-6096;Email Configuration;Fernando;Fix paper jam and replace toner.;1729167610268
-1592;Cable Replacement;Igor;Fix paper jam and replace toner.;1728839592291
-8732;Technical Visit;Armando;Replace HDMI cable for TV.;1728865314686
 5349;Printer Maintenance;Helena;Set up automatic backup on company server.;1728927628052
-5011;Data Recovery;Elisa;Fix blue screen issue on laptop.;1729268581206
-1355;Cable Replacement;Fernando;Fix blue screen issue on laptop.;1728882277335
-8445;Computer Repair;Carlos;Calibrate colors on the new monitor.;1729170918263
-6613;Network Setup;Juliana;Update operating system to latest version.;1727973889401
-2836;Computer Repair;Daniel;Fix paper jam and replace toner.;1729641310078
-5183;Server Backup;Gabriela;Check the antenna and fix internet issue.;1728953989843
-1616;Technical Visit;Carlos;Replace HDMI cable for TV.;1728452144604
-6831;Computer Repair;Daniel;Install new router and configure Wi-Fi.;1729320798953
-9631;Computer Repair;Carlos;Configure work email on new phone.;1728958205180
-4833;Technical Visit;Juliana;Replace HDMI cable for TV.;1729122191045
-1234;Network Setup;Carlos;Update operating system to latest version.;1727169904128
-1236;Technical Visit;Beatriz;Recover deleted files from hard drive.;1728626287661
-2240;Network Setup;Daniel;Recover deleted files from hard drive.;1728740130888
-6641;Printer Maintenance;Gabriela;Recover deleted files from hard drive.;1727207910158
-8844;Cable Replacement;Helena;Set up automatic backup on company server.;1727206016957
-1645;Data Recovery;Igor;Fix paper jam and replace toner.;1729232493434
-4049;Printer Maintenance;Juliana;Calibrate colors on the new monitor.;1727752013233
-5049;Printer Maintenance;Daniel;Recover deleted files from hard drive.;1727987515930
-4051;Software Update;Elisa;Set up automatic backup on company server.;1729472154552
-9251;Network Setup;Armando;Fix blue screen issue on laptop.;1728252351987
-5455;Server Backup;Daniel;Configure work email on new phone.;1729236696281
-1655;Server Backup;Carlos;Calibrate colors on the new monitor.;1729622109546
-6857;Network Setup;Elisa;Check the antenna and fix internet issue.;1727941878695
-7858;Cable Replacement;Gabriela;Replace HDMI cable for TV.;1728905361064
-2660;Computer Repair;Igor;Configure work email on new phone.;1727436590390
-4462;Software Update;Gabriela;Set up automatic backup on company server.;1727269054615
-4468;Monitor Calibration;Juliana;Configure work email on new phone.;1729688851052
-1870;Data Recovery;Gabriela;Fix blue screen issue on laptop.;1729450835588
-5273;Server Backup;Juliana;Configure work email on new phone.;1727493249750
-3874;Server Backup;Elisa;Set up automatic backup on company server.;1729624773881
-1675;Email Configuration;Daniel;Check the antenna and fix internet issue.;1728243836316
-3276;Software Update;Beatriz;Fix paper jam and replace toner.;1729666715826
-9276;Data Recovery;Elisa;Check the antenna and fix internet issue.;1728353392016
-1678;Email Configuration;Beatriz;Set up automatic backup on company server.;1728093604057
-9482;Cable Replacement;Beatriz;Configure work email on new phone.;1727537606401
-2884;Server Backup;Igor;Fix paper jam and replace toner.;1728795637393
-1890;Data Recovery;Daniel;Replace HDMI cable for TV.;1727259575878
-4092;Monitor Calibration;Igor;Check the antenna and fix internet issue.;1729484916677
-9496;Data Recovery;Gabriela;Configure work email on new phone.;1728959789585
-9696;Technical Visit;Elisa;Fix blue screen issue on laptop.;1727447452515
-8701;Printer Maintenance;Daniel;Install new router and configure Wi-Fi.;1727855882346
-6102;Data Recovery;Fernando;Update operating system to latest version.;1727909422905
-4903;Software Update;Armando;Update operating system to latest version.;1728434474219
-2107;Network Setup;Fernando;Check the antenna and fix internet issue.;1727533763182
-6510;Monitor Calibration;Fernando;Fix blue screen issue on laptop.;1728758813851
-5312;Computer Repair;Gabriela;Calibrate colors on the new monitor.;1729239131545
-3121;Cable Replacement;Fernando;Fix paper jam and replace toner.;1728995894823
-2524;Cable Replacement;Carlos;Recover deleted files from hard drive.;1729475030581
-6927;Computer Repair;Daniel;Configure work email on new phone.;1728978160409
-4528;Email Configuration;Elisa;Fix paper jam and replace toner.;1727782914647
 7128;Technical Visit;Elisa;Recover deleted files from hard drive.;1729534983132
-6332;Server Backup;Fernando;Fix blue screen issue on laptop.;1729248543855
-4132;Email Configuration;Carlos;Check the antenna and fix internet issue.;1729662886230
-5335;Printer Maintenance;Daniel;Configure work email on new phone.;1728950081087
-5938;Server Backup;Beatriz;Replace HDMI cable for TV.;1727211442333
-9739;Email Configuration;Gabriela;Install new router and configure Wi-Fi.;1729058442841
-5345;Email Configuration;Beatriz;Replace HDMI cable for TV.;1729141185341
-8746;Server Backup;Beatriz;Fix blue screen issue on laptop.;1728522751363
-5947;Technical Visit;Beatriz;Fix paper jam and replace toner.;1728873701263
-2148;Data Recovery;Beatriz;Fix paper jam and replace toner.;1727650042457
-2955;Software Update;Armando;Replace HDMI cable for TV.;1728250838993
+4462;Software Update;Gabriela;Set up automatic backup on company server.;1727269054615
 9162;Server Backup;Beatriz;Check the antenna and fix internet issue.;1727152832587
-7965;Cable Replacement;Armando;Replace HDMI cable for TV.;1728903083491
-8966;Email Configuration;Igor;Check the antenna and fix internet issue.;1729023679127
-9367;Network Setup;Armando;Replace HDMI cable for TV.;1728563071034
-5770;Software Update;Carlos;Fix paper jam and replace toner.;1729456234297
-7577;Software Update;Carlos;Check the antenna and fix internet issue.;1728454359756
-4178;Software Update;Daniel;Replace HDMI cable for TV.;1727612011639
-8981;Server Backup;Gabriela;Check the antenna and fix internet issue.;1728740800344
-3382;Monitor Calibration;Beatriz;Set up automatic backup on company server.;1728859874004
-1183;Cable Replacement;Igor;Configure work email on new phone.;1729364029367
-8584;Software Update;Fernando;Recover deleted files from hard drive.;1728585055343
 7387;Email Configuration;Daniel;Recover deleted files from hard drive.;1727421797155
+4468;Monitor Calibration;Juliana;Configure work email on new phone.;1729688851052
+1675;Email Configuration;Daniel;Check the antenna and fix internet issue.;1728243836316
+9804;Network Setup;Daniel;Calibrate colors on the new monitor.;1729682688388
+1678;Email Configuration;Beatriz;Set up automatic backup on company server.;1728093604057
+4092;Monitor Calibration;Igor;Check the antenna and fix internet issue.;1729484916677
 7396;Email Configuration;Juliana;Replace HDMI cable for TV.;1729583931095
+6510;Monitor Calibration;Fernando;Fix blue screen issue on laptop.;1728758813851
+2955;Software Update;Armando;Replace HDMI cable for TV.;1728250838993
+8417;Network Setup;Fernando;Install new router and configure Wi-Fi.;1728609482771
+6641;Printer Maintenance;Gabriela;Recover deleted files from hard drive.;1727207910158
+6006;Cable Replacement;Gabriela;Fix blue screen issue on laptop.;1727347355767
+1183;Cable Replacement;Igor;Configure work email on new phone.;1729364029367
+2836;Computer Repair;Daniel;Fix paper jam and replace toner.;1729641310078
+9696;Technical Visit;Elisa;Fix blue screen issue on laptop.;1727447452515
+1703;Network Setup;Igor;Configure work email on new phone.;1728970075700
+5770;Software Update;Carlos;Fix paper jam and replace toner.;1729456234297
+5011;Data Recovery;Elisa;Fix blue screen issue on laptop.;1729268581206
+8445;Computer Repair;Carlos;Calibrate colors on the new monitor.;1729170918263
+5143;Technical Visit;Helena;Update operating system to latest version.;1728488378389
+3874;Server Backup;Elisa;Set up automatic backup on company server.;1729624773881
+8701;Printer Maintenance;Daniel;Install new router and configure Wi-Fi.;1727855882346
+5273;Server Backup;Juliana;Configure work email on new phone.;1727493249750
+4132;Email Configuration;Carlos;Check the antenna and fix internet issue.;1729662886230
+1592;Cable Replacement;Igor;Fix paper jam and replace toner.;1728839592291
+6037;Server Backup;Elisa;Calibrate colors on the new monitor.;1728263242143
+6927;Computer Repair;Daniel;Configure work email on new phone.;1728978160409
+4009;Cable Replacement;Elisa;Fix blue screen issue on laptop.;1727216539776
+3121;Cable Replacement;João;Fix paper jam and replace toner.;1728995894823
+8584;Software Update;Fernando;Recover deleted files from hard drive.;1728585055343
+2107;Network Setup;Fernando;Check the antenna and fix internet issue.;1727533763182
+8966;Email Configuration;Igor;Check the antenna and fix internet issue.;1729023679127
+4903;Software Update;Armando;Update operating system to latest version.;1728434474219
+4014;Monitor Calibration;Igor;Fix blue screen issue on laptop.;1729330701735
+3382;Monitor Calibration;Beatriz;Set up automatic backup on company server.;1728859874004
+8844;Cable Replacement;Helena;Set up automatic backup on company server.;1727206016957
+2240;Network Setup;Daniel;Recover deleted files from hard drive.;1728740130888
+4528;Email Configuration;Elisa;Fix paper jam and replace toner.;1727782914647
+7577;Software Update;Carlos;Check the antenna and fix internet issue.;1728454359756
+9482;Cable Replacement;Beatriz;Configure work email on new phone.;1727537606401
+1355;Cable Replacement;Fernando;Fix blue screen issue on laptop.;1728882277335
+5546;Printer Maintenance;Beatriz;Recover deleted files from hard drive.;1729446283618
+9739;Email Configuration;Gabriela;Install new router and configure Wi-Fi.;1729058442841
+2884;Server Backup;Igor;Fix paper jam and replace toner.;1728795637393
+8981;Server Backup;Gabriela;Check the antenna and fix internet issue.;1728740800344
+7965;Cable Replacement;Armando;Replace HDMI cable for TV.;1728903083491
+1234;Network Setup;Carlos;Update operating system to latest version.;1727169904128
+1870;Data Recovery;Gabriela;Fix blue screen issue on laptop.;1729450835588
+1616;Technical Visit;Carlos;Replace HDMI cable for TV.;1728452144604
+1236;Technical Visit;Beatriz;Recover deleted files from hard drive.;1728626287661
+9367;Network Setup;Armando;Replace HDMI cable for TV.;1728563071034
+5938;Server Backup;Beatriz;Replace HDMI cable for TV.;1727211442333
+5049;Printer Maintenance;Daniel;Recover deleted files from hard drive.;1727987515930
+8732;Technical Visit;Armando;Replace HDMI cable for TV.;1728865314686
+9496;Data Recovery;Gabriela;Configure work email on new phone.;1728959789585
+6831;Computer Repair;Daniel;Install new router and configure Wi-Fi.;1729320798953
+3276;Software Update;Beatriz;Fix paper jam and replace toner.;1729666715826
+4165;Monitor Calibration;Armando;Fix paper jam and replace toner.;1728650451822
+5183;Server Backup;Gabriela;Check the antenna and fix internet issue.;1728953989843
+7470;Software Update;Elisa;Calibrate colors on the new monitor.;1729411311991
+5947;Technical Visit;Beatriz;Fix paper jam and replace toner.;1728873701263
+5312;Computer Repair;Gabriela;Calibrate colors on the new monitor.;1729239131545
+9630;Software Update;Fernando;Fix paper jam and replace toner.;1728573868605
+9631;Computer Repair;Carlos;Configure work email on new phone.;1728958205180
+5440;Data Recovery;Juliana;Calibrate colors on the new monitor.;1729018472990
+9251;Network Setup;Armando;Fix blue screen issue on laptop.;1728252351987
+6332;Server Backup;Fernando;Fix blue screen issue on laptop.;1729248543855
+8746;Server Backup;Beatriz;Fix blue screen issue on laptop.;1728522751363
+7857;Computer Repair;Gabriela;Replace HDMI cable for TV.;1727499367198
+2524;Cable Replacement;Carlos;Recover deleted files from hard drive.;1729475030581
+7858;Cable Replacement;Gabriela;Replace HDMI cable for TV.;1728905361064
+1890;Data Recovery;Daniel;Replace HDMI cable for TV.;1727259575878
+4049;Printer Maintenance;Juliana;Calibrate colors on the new monitor.;1727752013233
+1128;Email Configuration;Daniel;Fix paper jam and replace toner.;1729458740946
+4178;Software Update;Daniel;Replace HDMI cable for TV.;1727612011639
+4051;Software Update;Elisa;Set up automatic backup on company server.;1729472154552
+1003;Lucas;Paulo Henrique;ED2 final project;1729712992116
+2148;Data Recovery;Beatriz;Fix paper jam and replace toner.;1727650042457
+2660;Computer Repair;Igor;Configure work email on new phone.;1727436590390
+5455;Server Backup;Daniel;Configure work email on new phone.;1729236696281
+1645;Data Recovery;Igor;Fix paper jam and replace toner.;1729232493434
+9900;Computer Repair;Igor;Set up automatic backup on company server.;1728625551119
+6857;Network Setup;Elisa;Check the antenna and fix internet issue.;1727941878695
+3809;Data Recovery;Beatriz;Update operating system to latest version.;1729136766369

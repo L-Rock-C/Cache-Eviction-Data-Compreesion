@@ -39,6 +39,9 @@ public class Main {
                     SOController.getCache().printCache();
                     break;
                 case 7:
+                    SOController.getSOSize();
+                    break;
+                case 8:
                     on = false;
                     break;
                 default:
@@ -57,7 +60,8 @@ public class Main {
         System.out.println("[4] - Sign Service Order");
         System.out.println("[5] - Delete Service Order");
         System.out.println("[6] - View Cache");
-        System.out.println("[7] - Exit\n");
+        System.out.println("[7] - Registries Counter\n");
+        System.out.println("[8] - Exit\n");
 
         System.out.print("Choice: ");
     }

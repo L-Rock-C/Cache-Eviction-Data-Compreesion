@@ -16,7 +16,7 @@ public class FilesController {
     }
 
     public HashTable readSOFile(File path) throws IOException {
-        HashTable servicesOrders = new HashTable(100);
+        HashTable servicesOrders = new HashTable(150);
 
         BufferedReader bufferedReader = new BufferedReader( new FileReader(path) );
 

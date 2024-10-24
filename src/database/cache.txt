@@ -1,4 +1,30 @@
-7128;Technical Visit;Elisa;Recover deleted files from hard drive.;1729534983132
+6927;Computer Repair;Daniel;Configure work email on new phone.;1728978160409
+3874;Server Backup;Elisa;Set up automatic backup on company server.;1729624773881
+2524;Cable Replacement;Carlos;Recover deleted files from hard drive.;1729475030581
 1003;Lucas;Paulo Henrique;ED2 final project;1729712992116
-1090;Technical Visit;Armando;Check the antenna and fix internet issue.;1729709561938
-7396;Email Configuration;Juliana;Replace HDMI cable for TV.;1729583931095
+7128;Technical Visit;Elisa;Recover deleted files from hard drive.;1729534983132
+4165;Monitor Calibration;Armando;Fix paper jam and replace toner.;1728650451822
+7124;Software Update;Helena;Configure work email on new phone.;1728038263935
+6096;Email Configuration;Fernando;Fix paper jam and replace toner.;1729167610268
+1592;Cable Replacement;Igor;Fix paper jam and replace toner.;1728839592291
+8732;Technical Visit;Armando;Replace HDMI cable for TV.;1728865314686
+5349;Printer Maintenance;Helena;Set up automatic backup on company server.;1728927628052
+5455;Server Backup;Daniel;Configure work email on new phone.;1729236696281
+1678;Email Configuration;Beatriz;Set up automatic backup on company server.;1728093604057
+9482;Cable Replacement;Beatriz;Configure work email on new phone.;1727537606401
+4092;Monitor Calibration;Igor;Check the antenna and fix internet issue.;1729484916677
+9696;Technical Visit;Elisa;Fix blue screen issue on laptop.;1727447452515
+9739;Email Configuration;Gabriela;Install new router and configure Wi-Fi.;1729058442841
+5312;Computer Repair;Gabriela;Calibrate colors on the new monitor.;1729239131545
+2107;Network Setup;Fernando;Check the antenna and fix internet issue.;1727533763182
+1675;Email Configuration;Daniel;Check the antenna and fix internet issue.;1728243836316
+5273;Server Backup;Juliana;Configure work email on new phone.;1727493249750
+9900;Computer Repair;Igor;Set up automatic backup on company server.;1728625551119
+9804;Network Setup;Daniel;Calibrate colors on the new monitor.;1729682688388
+6037;Server Backup;Elisa;Calibrate colors on the new monitor.;1728263242143
+5440;Data Recovery;Juliana;Calibrate colors on the new monitor.;1729018472990
+8844;Cable Replacement;Helena;Set up automatic backup on company server.;1727206016957
+4049;Printer Maintenance;Juliana;Calibrate colors on the new monitor.;1727752013233
+1655;Server Backup;Carlos;Calibrate colors on the new monitor.;1729622109546
+6831;Computer Repair;Daniel;Install new router and configure Wi-Fi.;1729320798953
+9630;Software Update;Fernando;Fix paper jam and replace toner.;1728573868605
